@@ -1,0 +1,4 @@
+make sure to run the "isoinstaller.bat" file as a administrator.
+
+
+idea from the project is from Bog Youtuber (he was trying to install ubuntu on his old mac)
